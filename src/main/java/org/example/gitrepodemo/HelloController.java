@@ -9,6 +9,6 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("This has been updated!");
+        welcomeText.setText("This has been updated! twice");
     }
 }
